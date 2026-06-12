@@ -1,5 +1,7 @@
 # Hi, I'm Varun Choraria (VC)
 
+[/about](https://www.varunchoraria.com/about/) · [/work](https://www.varunchoraria.com/work/) · [/fun](https://www.varunchoraria.com/fun/) · [/notes](https://www.varunchoraria.com/blog/) · [/til](https://www.varunchoraria.com/til/) · [/side-quests](https://www.varunchoraria.com/side-quests/) · [/uses-this](https://www.varunchoraria.com/uses-this/)
+
 Senior Marketing Manager at [GTM Buddy](https://gtmbuddy.ai). I write about GTM, marketing, career, and whatever else is worth saying at [varunchoraria.com](https://www.varunchoraria.com).
 
 This README updates itself from my site. Inspired by [Simon Willison](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
