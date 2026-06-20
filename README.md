@@ -9,11 +9,11 @@ This README updates itself from my site. Inspired by [Simon Willison](https://si
 ## Latest notes
 
 <!-- notes starts -->
+- [Too much parenting, too little adulting](https://www.varunchoraria.com/too-much-parenting-too-little-adulting/) · 2026-06-20
 - [Killed By Google](https://www.varunchoraria.com/killed-by-google/) · 2026-06-16
+- [Who owns what?](https://www.varunchoraria.com/who-owns-what/) · 2026-05-17
 - [Team values I value](https://www.varunchoraria.com/team-values-i-value/) · 2026-04-25
 - [I’ve been trying to get lucky for a decade. Here’s what I learnt.](https://www.varunchoraria.com/ive-been-trying-to-get-lucky-for-a-decade/) · 2026-04-19
-- [Imposter syndrome as a first-time manager](https://www.varunchoraria.com/imposter-syndrome-as-a-first-time-manager/) · 2026-04-12
-- [So you want to help your team succeed](https://www.varunchoraria.com/so-you-want-to-help-your-team-succeed/) · 2026-02-07
 <!-- notes ends -->
 
 ## Elsewhere
