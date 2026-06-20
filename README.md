@@ -1,6 +1,6 @@
 # Hi, I'm Varun Choraria (VC)
 
-[/about](https://www.varunchoraria.com/about/) · [/work](https://www.varunchoraria.com/work/) · [/fun](https://www.varunchoraria.com/fun/) · [/notes](https://www.varunchoraria.com/blog/) · [/til](https://www.varunchoraria.com/til/) · [/side-quests](https://www.varunchoraria.com/side-quests/) · [/uses-this](https://www.varunchoraria.com/uses-this/)
+[/about](https://www.varunchoraria.com/about/) · [/work](https://www.varunchoraria.com/work/) · [/fun](https://www.varunchoraria.com/fun/) · [/notes](https://www.varunchoraria.com/blog/) · [/side-quests](https://www.varunchoraria.com/side-quests/) · [/uses-this](https://www.varunchoraria.com/uses-this/)
 
 Senior Marketing Manager at [GTM Buddy](https://gtmbuddy.ai). I write about GTM, marketing, career, and whatever else is worth saying at [varunchoraria.com](https://www.varunchoraria.com).
 
@@ -15,12 +15,6 @@ This README updates itself from my site. Inspired by [Simon Willison](https://si
 - [Imposter syndrome as a first-time manager](https://www.varunchoraria.com/imposter-syndrome-as-a-first-time-manager/) · 2026-04-12
 - [So you want to help your team succeed](https://www.varunchoraria.com/so-you-want-to-help-your-team-succeed/) · 2026-02-07
 <!-- notes ends -->
-
-## Latest TILs
-
-<!-- til starts -->
-- [What is pipeline coverage?](https://www.varunchoraria.com/til/what-is-pipeline-coverage/) · 2026-06-12
-<!-- til ends -->
 
 ## Elsewhere
 
