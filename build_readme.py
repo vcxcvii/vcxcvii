@@ -18,6 +18,11 @@ def replace_chunk(content, marker, chunk):
     return pattern.sub(replacement, content)
 
 
+def marker_exists(content, marker):
+    pattern = re.compile(rf"<!-- {marker} starts -->.*<!-- {marker} ends -->", re.DOTALL)
+    return bool(pattern.search(content))
+
+
 def format_entries(entries):
     return "\n".join(
         f"- [{e['title']}]({e['url']}) · {e['date']}" for e in entries
@@ -29,8 +34,11 @@ def main():
         data = json.load(response)
 
     content = README.read_text()
-    content = replace_chunk(content, "notes", format_entries(data["notes"]))
-    content = replace_chunk(content, "til", format_entries(data["til"]))
+
+    for section, entries in data.items():
+        if isinstance(entries, list) and marker_exists(content, section):
+            content = replace_chunk(content, section, format_entries(entries))
+
     README.write_text(content)
 
 
