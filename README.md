@@ -1,36 +1,11 @@
 # Varun Choraria
 
-Senior Manager, Marketing at [GTM Buddy](https://gtmbuddy.ai). I write about B2B marketing, go-to-market strategy, management, and whatever else is worth saying.
+Senior Manager, Marketing at [GTM Buddy](https://gtmbuddy.ai).  
+B2B SaaS marketing, go-to-market strategy, management, and whatever else is worth writing down.
 
-Everything lives at [varunchoraria.com](https://www.varunchoraria.com) — a Jekyll site built, maintained, and QA-checked almost entirely by AI.
+[varunchoraria.com](https://www.varunchoraria.com) · [LinkedIn](https://www.linkedin.com/in/varunchoraria/) · [Book 30 min](https://cal.com/varun-choraria/30min)
 
-## On the site
-
-| | |
-|---|---|
-| [/about](https://www.varunchoraria.com/about/) | Who I am |
-| [/work](https://www.varunchoraria.com/work/) | What I do |
-| [/notes](https://www.varunchoraria.com/blog/) | Things I write |
-| [/fun](https://www.varunchoraria.com/fun/) | A book, some talks, a podcast |
-| [/side-quests](https://www.varunchoraria.com/side-quests/) | Projects built with AI |
-| [/uses-this](https://www.varunchoraria.com/uses-this/) | Tools I use |
-| [/changelog](https://www.varunchoraria.com/changelog/) | What changed and why |
-
-## How AI runs this site
-
-The site is managed by Claude Code — it writes code, ships features, and checks quality before anything goes live. A few things worth knowing:
-
-**Pre-push QA gate** — every push runs an automated check on changed files. It blocks commits that fail SEO (missing title/description), AEO (missing structure for AI readability), design compliance, or accidentally include data files.
-
-**MCP server** — the site exposes a live [Model Context Protocol](https://varunchoraria.com/mcp/) server. Any MCP-compatible AI client (Claude Code, Cursor, Codex CLI) can connect and read all posts and pages directly — not from training data, from the live site. Add it with:
-
-```
-claude mcp add --transport http varunchoraria https://varunchoraria-mcpvercelapp.vercel.app
-```
-
-**Machine-readable design system** — [`DESIGN.md`](https://github.com/vcxcvii/vcxcvii.github.io/blob/main/DESIGN.md) codifies every visual decision so the AI knows the design language without being told twice.
-
-## Latest
+## Latest notes
 
 <!-- notes starts -->
 - [I now have my own Master Shifu](https://www.varunchoraria.com/i-now-have-my-own-master-shifu/) · 2026-07-02
@@ -40,10 +15,29 @@ claude mcp add --transport http varunchoraria https://varunchoraria-mcpvercelapp
 - [Who owns what?](https://www.varunchoraria.com/who-owns-what/) · 2026-05-17
 <!-- notes ends -->
 
-## Connect
+## Quick links
 
-[Book 30 minutes](https://cal.com/varun-choraria/30min) · [LinkedIn](https://www.linkedin.com/in/varunchoraria/) · [MCP server](https://varunchoraria.com/mcp/)
+| Page | What's there |
+|---|---|
+| [/about](https://www.varunchoraria.com/about/) | Who I am |
+| [/work](https://www.varunchoraria.com/work/) | What I do |
+| [/blog](https://www.varunchoraria.com/blog/) | Things I write |
+| [/side-quests](https://www.varunchoraria.com/side-quests/) | Projects built with AI |
+| [/uses-this](https://www.varunchoraria.com/uses-this/) | Tools I use |
+| [/changelog](https://www.varunchoraria.com/changelog/) | What changed and why |
+
+## How this site is built
+
+Every line of code on [varunchoraria.com](https://www.varunchoraria.com) is written by Claude Code. The AI handles the full pipeline — coding, shipping, and quality checks — with a [pre-push gate](https://github.com/vcxcvii/vcxcvii.github.io/blob/main/scripts/qa) that blocks SEO failures, missing metadata, and design drift.
+
+The site speaks MCP. Point any [MCP-compatible client](https://modelcontextprotocol.io) at it and your AI can read every post live:
+
+```
+claude mcp add --transport http varunchoraria https://varunchoraria-mcp.vercel.app
+```
+
+A machine-readable [`DESIGN.md`](https://github.com/vcxcvii/vcxcvii.github.io/blob/main/DESIGN.md) keeps the AI consistent — colors, type scale, spacing, all codified so the agent doesn't guess.
 
 ---
 
-*Latest posts auto-update from the site's RSS feed. Inspired by [Simon Willison](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).*
+*Latest notes refresh automatically from the RSS feed. Inspired by [Simon Willison](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).*
