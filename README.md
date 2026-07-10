@@ -8,7 +8,7 @@ B2B SaaS marketing, go-to-market strategy, management, and whatever else is wort
 ## Latest notes
 
 <!-- notes starts -->
-- [How to design without AI Slop](https://www.varunchoraria.com/you-are-what-you-admire/) · 2026-07-08
+- [How to design without AI Slop](https://www.varunchoraria.com/how-to-design-without-ai-slop/) · 2026-07-08
 - [I now have my own Master Shifu](https://www.varunchoraria.com/i-now-have-my-own-master-shifu/) · 2026-07-02
 - [Maybe going around CIRCLES is worth it](https://www.varunchoraria.com/maybe-going-around-circles-is-worth-it/) · 2026-06-26
 - [Too much parenting, too little adulting](https://www.varunchoraria.com/too-much-parenting-too-little-adulting/) · 2026-06-20
