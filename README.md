@@ -1,7 +1,9 @@
 # Varun Choraria
 
-Senior Manager, Marketing at [GTM Buddy](https://gtmbuddy.ai).  
-B2B SaaS marketing, go-to-market strategy, management, and whatever else is worth writing down.
+B2B SaaS marketing operator and consultant. About a decade across Freshworks, Vymo, and [GTM Buddy](https://gtmbuddy.ai) (Jan-Aug 2026), now building [Grow & Close](https://growandclose.com).  
+Go-to-market strategy, product marketing, management, and whatever else is worth writing down.
+
+**Open to full-time roles and consulting engagements.**
 
 [varunchoraria.com](https://www.varunchoraria.com) · [LinkedIn](https://www.linkedin.com/in/varunchoraria/) · [Book 30 min](https://cal.com/varun-choraria/30min)
 
@@ -14,6 +16,14 @@ B2B SaaS marketing, go-to-market strategy, management, and whatever else is wort
 - [Too much parenting, too little adulting](https://www.varunchoraria.com/too-much-parenting-too-little-adulting/) · 2026-06-20
 - [Killed By Google](https://www.varunchoraria.com/killed-by-google/) · 2026-06-16
 <!-- notes ends -->
+
+## Free tools I've open sourced
+
+| Repo | What it does |
+|---|---|
+| [interview-recon](https://github.com/vcxcvii/interview-recon) | Turns your AI coding agent into an interview research analyst. Company dossiers, JD-mapped talking points, a 90-day plan. Works without paid scraping APIs. |
+| [master-shifu](https://github.com/vcxcvii/master-shifu) | 32 consulting frameworks from 19 MBA casebooks, each one an agent `/command`. |
+| [michealangelo](https://github.com/vcxcvii/michealangelo) | Self-improving design-system skills so AI agents stop shipping generic UI. |
 
 ## Quick links
 
@@ -28,7 +38,7 @@ B2B SaaS marketing, go-to-market strategy, management, and whatever else is wort
 
 ## How this site is built
 
-Every line of code on [varunchoraria.com](https://www.varunchoraria.com) is written by Claude Code. The AI handles the full pipeline — coding, shipping, and quality checks — with a [pre-push gate](https://github.com/vcxcvii/vcxcvii.github.io/blob/main/scripts/qa) that blocks SEO failures, missing metadata, and design drift.
+Every line of code on [varunchoraria.com](https://www.varunchoraria.com) is written by Claude Code. The AI handles the full pipeline: coding, shipping, and quality checks, with a [pre-push gate](https://github.com/vcxcvii/vcxcvii.github.io/blob/main/_scripts/qa.rb) that blocks SEO failures, missing metadata, and design drift.
 
 The site speaks MCP. Point any [MCP-compatible client](https://modelcontextprotocol.io) at it and your AI can read every post live:
 
