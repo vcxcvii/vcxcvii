@@ -11,7 +11,7 @@ Go-to-market strategy, product marketing, management, and whatever else is worth
 
 <!-- notes starts -->
 - [Hunting Season for the Rest of Us](https://www.varunchoraria.com/hunting-season-for-the-rest-of-us/) · 2026-07-24
-- [Github-ing](https://www.varunchoraria.com/github-is-where-ideas-become-accountable/) · 2026-07-16
+- [Github-ing](https://www.varunchoraria.com/github-ing/) · 2026-07-16
 - [How to design without AI Slop](https://www.varunchoraria.com/how-to-design-without-ai-slop/) · 2026-07-08
 - [I now have my own Master Shifu](https://www.varunchoraria.com/i-now-have-my-own-master-shifu/) · 2026-07-02
 - [Maybe going around CIRCLES is worth it](https://www.varunchoraria.com/maybe-going-around-circles-is-worth-it/) · 2026-06-26
