@@ -10,11 +10,11 @@ Go-to-market strategy, product marketing, management, and whatever else is worth
 ## Latest notes
 
 <!-- notes starts -->
+- [My agent found 9.09%. I found one session.](https://www.varunchoraria.com/11-sessions-are-not-a-ux-audit/) · 2026-08-03
+- [The models were fine. I was the bug.](https://www.varunchoraria.com/the-models-were-fine-i-was-the-bug/) · 2026-08-02
 - [Who do we sell to vs. Who SHOULD we sell to (and how).](https://www.varunchoraria.com/who-do-we-sell-to-vs-who-should-we-sell-to-and-how/) · 2026-08-01
+- [The Claude bill said $1,492. I paid $20. Here’s how.](https://www.varunchoraria.com/how-to-get-1492-out-of-a-20-claude-subscription/) · 2026-07-30
 - [Hunting Season for the Rest of Us](https://www.varunchoraria.com/hunting-season-for-the-rest-of-us/) · 2026-07-24
-- [Github-ing](https://www.varunchoraria.com/github-ing/) · 2026-07-16
-- [How to design without AI Slop](https://www.varunchoraria.com/how-to-design-without-ai-slop/) · 2026-07-08
-- [I now have my own Master Shifu](https://www.varunchoraria.com/i-now-have-my-own-master-shifu/) · 2026-07-02
 <!-- notes ends -->
 
 ## Free tools I've open sourced
