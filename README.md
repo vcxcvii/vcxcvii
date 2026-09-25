@@ -2,7 +2,7 @@
 
 I'm a Group Manager, Product Marketing at [HCL Tech](https://www.hcltech.com/), and a B2B SaaS product marketer with 8+ years across [Vymo](https://vymo.com), [Freshworks](https://www.freshworks.com) and [GTM Buddy](https://gtmbuddy.ai).
 
-On the side, I ship open-source AI tools, experiment at [Grow and Close](https://growandclose.com), and write about go-to-market strategy, product marketing, management, and whatever else is worth writing down.
+On the side, I ship open-source AI tools and write about go-to-market strategy, product marketing, management, and whatever else is worth writing down.
 
 Views here are my own and do not represent my employer.
 
