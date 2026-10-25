@@ -11,11 +11,11 @@ Views here are my own and do not represent my employer.
 ## Latest notes
 
 <!-- notes starts -->
-- [Butler AI: Alfred’s Real Job Was Knowing What to Ignore](https://www.varunchoraria.com/butler-ai/) · 2026-10-24
+- [The Detroit mistake](https://www.varunchoraria.com/the-detroit-mistake/) · 2026-10-25
+- [Butler AI: Alfred’s real job was knowing what to ignore](https://www.varunchoraria.com/butler-ai/) · 2026-10-16
 - [Paper cuts from dull scissors](https://www.varunchoraria.com/paper-cuts-from-dull-scissors/) · 2026-09-26
 - [Day 91](https://www.varunchoraria.com/day-91/) · 2026-08-16
 - [My agent found 9.09%. I found one session.](https://www.varunchoraria.com/11-sessions-are-not-a-ux-audit/) · 2026-08-03
-- [The models were fine. I was the bug.](https://www.varunchoraria.com/the-models-were-fine-i-was-the-bug/) · 2026-08-02
 <!-- notes ends -->
 
 ## Free tools I've open sourced
